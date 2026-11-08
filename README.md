@@ -1,7 +1,7 @@
 <img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/4f77e14c-0a76-4197-b347-b0094d84ad03" />
 
 
-
+https://discord.gg/HZf6SXp54H
 
 # D-Browser-Public
 This is a Browser I made when I was making advanced discord bot
