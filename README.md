@@ -12,24 +12,26 @@ This is a Browser I made when I was making advanced discord bot
 
 **We use (google search) engine but we also have (DuckDuckGo) (Bing) My opinion no one likes or uses and last but not least (Brave Search) **
 
+Its not a virus please trust me when your anti virus goes off its doing that because I'm not a licensed 
+
 
 ## 2026.11.08-zi
 
 - **Fixed: a tab dragged out into its own window came up blank.** 
-- **adjusted the settings menu
+- **adjusted: the settings menu
 
 
-## 2026.11.08-zd
+## 2026.11.07-zd
 
 - **Launch screen**
 
 
-## 2026.11.08-zc
+## 2026.11.05-zc
 
 - **Greeting always matches the time**
 
 
-## 2026.11.08-zb
+## 2026.11.04-zb
 
 - **VPN built in**
 - **popups**
