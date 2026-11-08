@@ -1,7 +1,6 @@
 # D-Browser-Public
 This is a Browser I made when I was making advanced discord bot
 
-https://discord.com/channels/@me/1160074658826170378/1568939473268506675
 
 # Who are we. We are a Custom code/designs Company also known as (D-Development)
 
