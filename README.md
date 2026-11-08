@@ -1,6 +1,8 @@
 # D-Browser-Public
 This is a Browser I made when I was making advanced discord bot
 
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/9900643c-61ed-4442-a705-0f3614e879a7" />
+
 
 # Who are we. We are a Custom code/designs Company also known as (D-Development)
 
