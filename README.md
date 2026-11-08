@@ -1,10 +1,13 @@
 # D-Browser-Public
 This is a Browser I made when I was making advanced discord bot
 
+We use (google search) engine but we also have (DuckDuckGo) (Bing) My opinion no one likes or uses and last but not least (Brave Search)
+
 
 ## 2026.11.08-zi
 
-- **Fixed: a tab dragged out into its own window came up blank.**
+- **Fixed: a tab dragged out into its own window came up blank.** 
+- **adjusted the settings menu
 
 
 ## 2026.11.08-zd
@@ -20,6 +23,7 @@ This is a Browser I made when I was making advanced discord bot
 ## 2026.11.08-zb
 
 - **VPN built in**
+- **popups**
 
 
 ## 2026.11.08-za
