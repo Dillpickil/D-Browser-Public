@@ -1,7 +1,11 @@
 # D-Browser-Public
 This is a Browser I made when I was making advanced discord bot
 
-We use (google search) engine but we also have (DuckDuckGo) (Bing) My opinion no one likes or uses and last but not least (Brave Search)
+Who are we. We are a Custom code/designs Company also known as (D-Development)
+
+What we make discord bots and scripts/fivem scripts we also make websites time to time
+
+We use (google search) engine but we also have (DuckDuckGo) (Bing) My opinion no one likes or uses and last but not least (Brave Search) 
 
 
 ## 2026.11.08-zi
