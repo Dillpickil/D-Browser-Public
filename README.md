@@ -12,7 +12,7 @@ This is a Browser I made when I was making advanced discord bot
 
 **We use (google search) engine but we also have (DuckDuckGo) (Bing) My opinion no one likes or uses and last but not least (Brave Search) **
 
-Its not a virus please trust me when your anti virus goes off its doing that because I'm not a licensed 
+Its not a virus please trust me! we have a few users already and this is managed by D-Developments and Microsoft edges / googles search engine
 
 
 ## 2026.11.08-zi
